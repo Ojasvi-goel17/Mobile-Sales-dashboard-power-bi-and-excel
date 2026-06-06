@@ -3,10 +3,14 @@
 A comprehensive, interactive retail analytics solution built in **Power BI** to evaluate sales trajectories, track time-intelligence metrics, map geographical hubs, and decipher consumer purchasing behaviors. 
 
 This project bridges the gap between raw, multi-year transaction logs and executive-level strategic decision-making.
+<img width="658" height="365" alt="Screenshot 2026-05-20 204512" src="https://github.com/user-attachments/assets/24c6acd8-86af-4eb8-a853-84100604f3b5" />
+<img width="656" height="368" alt="Screenshot 2026-05-20 204915" src="https://github.com/user-attachments/assets/2d723559-8cf9-43c9-aa3a-245473d60b02" />
+<img width="653" height="367" alt="Screenshot 2026-05-20 205017" src="https://github.com/user-attachments/assets/350a99f3-839d-49e8-9365-d6125637f71c" />
 
----
+
 
 ## 📊 Business Problem & Objective
+
 In a competitive retail landscape, stakeholders need real-time data clarity to optimize inventory, streamline payment operations, and direct localized marketing efforts. 
 
 The primary objective of this project was to clean, model, and visualize retail transactional data to discover:
